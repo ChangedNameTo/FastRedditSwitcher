@@ -10,9 +10,16 @@
       ],
       "js": [
           "jquery-3.2.1.min.js",
+          "jquery.colorbox-min.js",
           "mousetrap.min.js",
           "content.js"
       ]
     }
+  ],
+  "web_accessible_resources" : [
+    "jquery-3.2.1.min.js",
+    "jquery.colorbox-min.js",
+    "switcher.html",
+    "modal.js"
   ]
 }
